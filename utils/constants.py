@@ -1,0 +1,1 @@
+SEPREM_RATE = 0.14
